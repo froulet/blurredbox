@@ -1,6 +1,6 @@
 # Lightbox2
 
-The original lightbox script. Eight years later — still going strong!
+An improved version of the lightbox script with Blurred Background
 
 ## Demo and basic instructions
 [Goto the Lightbox2 page](http://lokeshdhakar.com/projects/lightbox2/)
@@ -11,6 +11,7 @@ The original lightbox script. Eight years later — still going strong!
 ### Author
 by Lokesh Dhakar  
 Edited by Frantz Roulet
+
 [lokeshdhakar.com](http://www.lokeshdhakar.com)  
 [twitter.com/lokesh](http://twitter.com/lokesh)
 [frantzroulet.com](http://www.frantzroulet.com)  
