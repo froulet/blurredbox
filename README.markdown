@@ -10,9 +10,10 @@ The original lightbox script. Eight years later — still going strong!
 
 ### Author
 by Lokesh Dhakar  
+Edited by Frantz Roulet
 [lokeshdhakar.com](http://www.lokeshdhakar.com)  
 [twitter.com/lokesh](http://twitter.com/lokesh)
-
+[frantzroulet.com](http://www.frantzroulet.com)  
 
 ### Thanks
 * Scott Upton [(uptonic.com)](uptonic.com), Peter-Paul Koch [(quirksmode.com)](quirksmode.com), and Thomas Fuchs [(mir.aculo.us)](mir.aculo.us) for ideas, libs, and snippets.
