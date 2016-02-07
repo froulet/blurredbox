@@ -187,10 +187,15 @@
       this.disableKeyboardNav();
       var $image = this.$lightbox.find('.lb-image');
 
+      //We compute how much we scroll to fit in just in the viewport
+      var posY = $(window).scrollTop();
+      var posX = $(window).scrollLeft();
 
       this.$overlay.css({ 
        "background": "url("+self.album[imageNumber].link+") no-repeat center center fixed",
-       "background-size": "cover"
+       "background-size": "cover",
+       "top" : posY,
+       "left" : posX
       });
 
 
@@ -248,7 +253,8 @@
     Lightbox.prototype.sizeOverlay = function() {
       this.$overlay
         .width($(window).width())
-        .height($(document).height());
+        //.height($(document).height());
+
     };
 
     // Animate the size of the lightbox to fit the image we are showing
